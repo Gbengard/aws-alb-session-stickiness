@@ -1,6 +1,6 @@
-# GitHub Project: ALB Session Stickiness Demo
+# ALB Session Stickiness Demo
 
-This GitHub project provides a demonstration of ALB session stickiness using an Application Load Balancer (ALB) managed session cookie called `AWSALB`. The demo consists of several key steps:
+This project provides a demonstration of ALB session stickiness using an Application Load Balancer (ALB) managed session cookie called `AWSALB`. The demo consists of several key steps:
 
 ## Key Steps:
 
